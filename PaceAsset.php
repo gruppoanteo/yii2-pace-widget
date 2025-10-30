@@ -1,6 +1,6 @@
 <?php
 
-namespace uran1980\yii\widgets\pace;
+namespace anteo\yii\widgets\pace;
 
 /**
  * Pace will automatically monitor your ajax requests, event loop lag,

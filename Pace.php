@@ -1,6 +1,6 @@
 <?php
 
-namespace uran1980\yii\widgets\pace;
+namespace anteo\yii\widgets\pace;
 
 use yii\helpers\Json;
 
