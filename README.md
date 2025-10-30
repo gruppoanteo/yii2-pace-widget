@@ -81,4 +81,4 @@ Notes:
 
 ## License
 
-BSD 3-Clause. See `LICENSE` for details.
+BSD 3-Clause. See `LICENSE` for details. Thanks to [Ivan Yakovlev](https://github.com/uran1980/) for the work.
